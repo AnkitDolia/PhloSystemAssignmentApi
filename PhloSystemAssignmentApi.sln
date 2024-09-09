@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhloSystemAssignmentApi", "PhloSystemAssignmentApi\PhloSystemAssignmentApi.csproj", "{158B9AFC-4250-465B-AB19-F0AFF75646CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentApiTest", "AssignmentApiTest\AssignmentApiTest.csproj", "{93E095BA-0FC0-4F5E-8A50-7112474E18B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{158B9AFC-4250-465B-AB19-F0AFF75646CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158B9AFC-4250-465B-AB19-F0AFF75646CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158B9AFC-4250-465B-AB19-F0AFF75646CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158B9AFC-4250-465B-AB19-F0AFF75646CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E095BA-0FC0-4F5E-8A50-7112474E18B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E095BA-0FC0-4F5E-8A50-7112474E18B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E095BA-0FC0-4F5E-8A50-7112474E18B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E095BA-0FC0-4F5E-8A50-7112474E18B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C78C1570-2401-46AC-A65F-E82D365ECFA5}
+	EndGlobalSection
+EndGlobal
